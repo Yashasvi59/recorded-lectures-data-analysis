@@ -2,7 +2,7 @@
 This project analyzes EdTech recorded lecture data to uncover category-wise trends, viewer preferences, and content performance, enabling strategic decisions for growth, engagement, and optimized course offerings.
 
 
-<h6>This project is about helping an EdTech company understand how people engage with recorded online courses. The company collected data from different education websites, and now we’re using that data to find useful insights.</h6>
+<h4>This project is about helping an EdTech company understand how people engage with recorded online courses. The company collected data from different education websites, and now we’re using that data to find useful insights.</h4>
 
 We’re mainly looking at different categories of courses—like business, technology, design, etc.—to figure out:
 
